@@ -1,0 +1,18 @@
+Round: 1
+
+Computer:
+   Score: 14
+   Color: Black
+
+Human:
+   Score: 17
+   Color: White
+
+Board:
+   O  BB  O  BB  BB
+   BB  B  O  O  BB
+   O  O  O  O  O
+   O  W  O  W  WW
+   O  WW  WW  WW  O
+
+Next Player: Computer

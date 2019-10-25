@@ -1,0 +1,18 @@
+Round: 1
+
+Computer:
+   Score: 0
+   Color: White
+
+Human:
+   Score: 0
+   Color: Black
+
+Board:
+   O  BB  BB  BB  BB
+   BB  W  O  O  BB
+   B  W  O  O  O
+   O  W  O  W  O
+   O  WW  WW  WW  O
+
+Next Player: Human
